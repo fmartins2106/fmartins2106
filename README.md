@@ -1,40 +1,42 @@
-<h1 align="center">Olá, eu sou Fernando Martins 👋</h1>
+<h1 align="center">Olá, eu sou o Fernando Martins 👋</h1>
 
 <p align="center">
-  💻 Java Full Stack | Delphi Developer<br>
-  🚀 Apaixonado por tecnologia, desenvolvimento e soluções inteligentes.<br>
-  🎯 Sempre aprendendo e evoluindo.
+💻 Java Full Stack Developer | Delphi Developer <br>
+🚀 Apaixonado por tecnologia, desenvolvimento e soluções inteligentes <br>
+🎯 Sempre aprendendo, inovando e buscando evolução na área de tecnologia
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 Full Stack Developer
-- 🚀 Stack: **Delphi, Java, JavaScript, TypeScript, UX/UI, Spring Boot, Bootstrap, HTML, CSS, Angular**
-- 📚 Atualmente estudando novas tecnologias e aprimorando habilidades em desenvolvimento web e backend.
-- 🌍 Sempre buscando evolução na área de tecnologia.
+- 💼 Atualmente trabalhando como desenvolvedor Full Stack
+- 🧠 Tecnologias: **Delphi, Java, JavaScript, TypeScript, Angular, Spring Boot, UX/UI, Bootstrap, HTML, CSS**
+- 📚 Estudando constantemente para evoluir como desenvolvedor e criar soluções melhores
+- 🌍 Aberto a novos desafios e oportunidades na área de desenvolvimento de software
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-direction: row;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px"/>
+<div style="display: inline_block">
+<img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Delphi" height="40" width="40" src="https://img.icons8.com/color/48/000000/borland-delphi.png">
+<img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devfmartins&show_icons=true&theme=radical&hide=contribs,prs)
+<!-- Se não estiver funcionando, pode ser problema da API -->
+![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devfmartins&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfmartins&layout=compact&theme=radical)
 
@@ -43,11 +45,10 @@
 ## 🤝 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://br.linkedin.com/in/devfmartins)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandom.adm@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandom.adm@gmail.com)
 
 ---
 
 <p align="center">
 Feito com ❤️ por Fernando Martins
 </p>
-
