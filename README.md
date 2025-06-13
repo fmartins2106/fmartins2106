@@ -40,10 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/devfmartins?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/devfmartins?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfmartins&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfmartins&layout=compact&theme=radical)
 
 ---
 
