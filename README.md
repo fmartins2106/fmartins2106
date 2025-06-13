@@ -31,7 +31,6 @@
 
 
 
-
 ## 📚 Atualmente estudando:
 
 - 🚀 Angular
