@@ -27,7 +27,8 @@
 ![UI](https://img.shields.io/badge/UI-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfmartins&layout=compact&theme=github_dark)
+
 
 ## 📚 Atualmente estudando:
 
