@@ -1,6 +1,6 @@
 # 👨‍💻 Fernando Martins
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/devfmartins)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/fmartins2106)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandom.adm@gmail.com)
 
 ---
@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfmartins&show_icons=true&theme=radical)
+![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmartins2106&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfmartins&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmartins2106&layout=compact&theme=radical)
 
 ---
 
