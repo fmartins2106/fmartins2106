@@ -40,17 +40,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <a href="https://br.linkedin.com/in/devfmartins" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" width="180">
-  </a>
-
-  <a href="mailto:fernandom.adm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="180">
-  </a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/devfmartins)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 
 ---
