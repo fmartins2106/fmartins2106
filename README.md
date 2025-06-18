@@ -40,9 +40,18 @@
 
 ## 📊 GitHub Stats
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmartins2106&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmartins2106&layout=compact&theme=radical)
+  <a href="https://br.linkedin.com/in/devfmartins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" width="180">
+  </a>
+
+  <a href="mailto:fernandom.adm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="180">
+  </a>
+
+</div>
+
 
 ---
 
@@ -51,11 +60,11 @@
 div align="center">
 
   <a href="https://br.linkedin.com/in/devfmartins" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="100">
   </a>
 
   <a href="mailto:fernandom.adm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="100">
   </a>
 
 </div>
