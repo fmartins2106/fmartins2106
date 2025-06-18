@@ -50,8 +50,8 @@ Sou movido por desafios e motivado a transformar ideias em sistemas funcionais, 
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-[Gmail](mailto:seuemail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/devfmartins/)  
+[Gmail](fernandom.adm@gmail.com)
 
 ---
 
