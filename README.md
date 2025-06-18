@@ -34,8 +34,14 @@ Sou movido por desafios e motivado a transformar ideias em sistemas funcionais, 
 ## Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmartins2106&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmartins2106&layout=compact&langs_count=7&theme=github_dark"/>
+</p>
+
+## Contribuições Recentes
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandomartinsdev&theme=github-dark&hide_border=true" />
 </p>
 
 ---
