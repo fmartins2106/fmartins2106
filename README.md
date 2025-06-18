@@ -48,8 +48,17 @@
 
 ## 💼 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/devfmartins)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandom.adm@gmail.com)
+div align="center">
+
+  <a href="https://br.linkedin.com/in/devfmartins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="40">
+  </a>
+
+  <a href="mailto:fernandom.adm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+  </a>
+
+</div>
 
 ---
 
