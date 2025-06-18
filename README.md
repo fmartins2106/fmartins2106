@@ -1,22 +1,22 @@
-## 👋 Olá! Eu sou o Fernando Martins 😄
+## Olá! Eu sou o Fernando Martins
 
-**Desenvolvedor Full Stack** apaixonado por tecnologia, focado em criar soluções inteligentes e em constante evolução no mundo do desenvolvimento de software. 💡
+Desenvolvedor Full Stack apaixonado por tecnologia, focado em criar soluções inteligentes e em constante evolução no mundo do desenvolvimento de software.
 
 Sou movido por desafios e motivado a transformar ideias em sistemas funcionais, robustos e escaláveis. Sempre buscando conhecimento e evolução contínua.
 
 ---
 
-## 📚 Atualmente estudando:
+## Atualmente estudando:
 
-- 🚀 Angular  
-- 🚀 Spring Boot  
-- 🚀 UX/UI Design  
-- 🚀 TypeScript  
-- 🚀 Front-end e Back-end Avançado
+- Angular  
+- Spring Boot  
+- UX/UI Design  
+- TypeScript  
+- Front-end e Back-end Avançado
 
 ---
 
-## 🧰 Tecnologias que uso:
+## Tecnologias que utilizo:
 
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F25?style=for-the-badge&logo=delphi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -31,28 +31,28 @@ Sou movido por desafios e motivado a transformar ideias em sistemas funcionais, 
 
 ---
 
-## 📊 GitHub Stats
+## Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark" width="47%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
 
 ---
 
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
-
-## 📅 GitHub Streak
+## Contribuições Recentes
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Se gostar de algum projeto, sinta-se à vontade para deixar uma ⭐ ou contribuir!
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+[Gmail](mailto:seuemail@gmail.com)
+
+---
+
+Obrigado por visitar meu perfil. Fique à vontade para explorar meus repositórios!
