@@ -38,26 +38,13 @@ Sou movido por desafios e motivado a transformar ideias em sistemas funcionais, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmartins2106&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
 
-## Contribuições Recentes
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandomartinsdev&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## Contribuições Recentes
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/devfmartins/)  
-[Gmail](fernandom.adm@gmail.com)
+[<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="30" alt="LinkedIn"/>](https://www.linkedin.com/in/seu-perfil)
+[<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" height="30" alt="Gmail"/>](mailto:seuemail@gmail.com)
+
 
 ---
 
