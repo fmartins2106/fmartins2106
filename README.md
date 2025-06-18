@@ -2,7 +2,11 @@
 
 Desenvolvedor Full Stack apaixonado por tecnologia, focado em criar soluções inteligentes e em constante evolução no mundo do desenvolvimento de software.
 
-Sou movido por desafios e motivado a transformar ideias em sistemas funcionais, robustos e escaláveis. Sempre buscando conhecimento e evolução contínua.
+[<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="25" alt="LinkedIn"/>](https://www.linkedin.com/in/seu-perfil)
+[<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" height="25" alt="Gmail"/>](mailto:seuemail@gmail.com)
+
+---
+
 
 ---
 
