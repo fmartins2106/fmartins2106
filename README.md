@@ -5,7 +5,6 @@
   <a href="https://br.linkedin.com/in/fmartins2106" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="40" alt="LinkedIn" />
   </a>
-
   <a href="mailto:fernandom.adm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
   </a>
@@ -20,7 +19,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas que utilizo
+## 🚀 Tecnologias e Ferramentas que utilizo:
 
 <div align="center">
 
@@ -41,7 +40,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente estudando:
 
 - 🚀 Angular  
 - 🚀 Spring Boot  
@@ -55,13 +54,10 @@
 
 <div align="center">
 
-  <!-- GitHub total stats -->
   ![Fernando Martins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmartins2106&show_icons=true&theme=radical&count_private=true)
 
-  <!-- Most used languages -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmartins2106&layout=compact&theme=radical)
 
-  <!-- GitHub streak stats -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmartins2106&theme=radical)
 
 </div>
@@ -73,4 +69,14 @@
 <div align="center">
 
   <a href="https://br.linkedin.com/in/fmartins2106" target="_blank">
-    <img src="https://img.sh
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fernandom.adm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+  </a>
+
+</div>
+
+---
+
+✨ Obrigado por visitar meu perfil!
