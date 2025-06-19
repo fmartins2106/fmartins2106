@@ -2,8 +2,8 @@
 
 Desenvolvedor Full Stack apaixonado por tecnologia, focado em criar soluções inteligentes e em constante evolução no mundo do desenvolvimento de software.
 
-[<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="25" alt="LinkedIn"/>](https://www.linkedin.com/in/seu-perfil)
-[<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" height="25" alt="Gmail"/>](mailto:seuemail@gmail.com)
+[<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="25" alt="LinkedIn"/>](https://www.linkedin.com/fmartins)
+[<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" height="25" alt="Gmail"/>](mailto:fernandom.adm@gmail.com)
 
 ---
 
@@ -46,8 +46,8 @@ Desenvolvedor Full Stack apaixonado por tecnologia, focado em criar soluções i
 
 ## Contato
 
-[<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="30" alt="LinkedIn"/>](https://www.linkedin.com/in/seu-perfil)
-[<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" height="30" alt="Gmail"/>](mailto:seuemail@gmail.com)
+[<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="30" alt="LinkedIn"/>](https://www.linkedin.com/fmartins)
+[<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" height="30" alt="Gmail"/>](mailto:fernandom.adm@gmail.com)
 
 
 ---
