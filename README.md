@@ -14,9 +14,11 @@ Desenvolvedor Full Stack apaixonado por tecnologia, focado em criar soluções i
 
 - Angular  
 - Spring Boot  
-- UX/UI Design  
+- Docker
+- Linux
+- DevSecOps
+- Redes  
 - TypeScript  
-- Front-end e Back-end Avançado
 
 ---
 
